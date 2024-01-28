@@ -1,6 +1,6 @@
 # BERTopic
 
-The online appendix for the SCAM 2023 submission "Enhancing API Documentation through BERTopic Modeling and Summarization".
+The online appendix for the FSE 2023 submission "Revolutionizing API Documentation through Summarization".
 
 The Topics folder contains the final results of the top 80 categories and the interactive intertopic distance map. You can download the HTML file and open it in your browser.
 
